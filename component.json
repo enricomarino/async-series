@@ -1,0 +1,8 @@
+{
+  "name": "async-series",
+  "repo": "enricomarino/async-series",
+  "description": "Async series component",
+  "version": "0.1.0",
+  "dependencies": {},
+  "scripts": ["index.js"]
+}
